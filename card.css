@@ -100,8 +100,10 @@ body
 #card-right a:visited
 {
   display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 0;
+  margin-right: 0;
+  padding-top: 1em;
+  padding-bottom: 1em;
   color: #00f;
 }
 
